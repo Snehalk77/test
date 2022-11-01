@@ -32,25 +32,25 @@ This section must include two things for each source: (1) A specific end-point U
   * [API](https://www.reddit.com/dev/api#GET_comments_{article}) - api for collecting comments from particular subreddit
 
   * [r/sports](https://reddit.com/r/sports) - sports subreddit will collect information about all sports
-  * [API-1](https://reddit.com/r/sports/comments) - collecting comments from subreddit sports
+  * [r/sports/comments](https://reddit.com/r/sports/comments) - collecting comments from subreddit sports
 
   * [r/cricket](https://reddit.com/r/cricket) - sports subreddit will collect information about cricket
-  * [API-1](https://reddit.com/r/cricket/comments) - collecting comments from subreddit cricket
+  * [r/cricket/comments](https://reddit.com/r/cricket/comments) - collecting comments from subreddit cricket
 
   * [r/football](https://reddit.com/r/football) - sports subreddit will collect information about football
-  * [API-1](https://reddit.com/r/football/comments) - collecting comments from subreddit football
+  * [r/football/comments](https://reddit.com/r/football/comments) - collecting comments from subreddit football
 
   * [r/mlb](https://reddit.com/r/mlb) - sports subreddit will collect information about all mlb
-  * [API-1](https://reddit.com/r/mlb/comments) - collecting comments from subreddit mlb
+  * [r/mlb/comments](https://reddit.com/r/mlb/comments) - collecting comments from subreddit mlb
 
   * [r/nfl](https://reddit.com/r/nfl) - sports subreddit will collect information about all nfl
-  * [API-1](https://reddit.com/r/nfl/comments) - collecting comments from subreddit nfl
+  * [r/nfl/comments](https://reddit.com/r/nfl/comments) - collecting comments from subreddit nfl
 
   * [r/nba](https://reddit.com/r/nba) - sports subreddit will collect information about all nba
-  * [API-1](https://reddit.com/r/nba/comments) - collecting comments from subreddit nba
+  * [r/nba/comments](https://reddit.com/r/nba/comments) - collecting comments from subreddit nba
 
   * [r/tennis](https://reddit.com/r/tennis) - sports subreddit will collect information about all tennis
-  * [API-1](https://reddit.com/r/tennis/comments) - collecting comments from subreddit tennis
+  * [r/tennis/comments](https://reddit.com/r/tennis/comments) - collecting comments from subreddit tennis
 
 * `4chan`
   * [API-Endpoint](https://a.4cdn.org/sp/catalog.json) - Publically available API endpoint to retrieve comments from '/sp/' (Sports) Board
